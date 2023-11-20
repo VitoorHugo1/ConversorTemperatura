@@ -29,7 +29,6 @@
 
             Console.WriteLine($"{temperatura} C° para Fahrenheit {converter} F°");
         }
-
         static void ConverterParaFahrenheit()
         {
             Console.Clear();
