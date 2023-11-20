@@ -28,7 +28,6 @@
             double converter = ((double)temperatura * 1.8 ) + 32;
 
             Console.WriteLine($"{temperatura} C° para Fahrenheit {converter} F°");
-
         }
 
         static void ConverterParaFahrenheit()
