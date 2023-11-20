@@ -17,7 +17,6 @@
                 default:
                     Console.WriteLine("Opção Invalida !"); break;
             }
-            
         }
         
         static void ConverterParaCelsius()
